@@ -1,0 +1,3 @@
+Automated backups with logging, cleanup, and monitoring.
+Adjust the scripts, and configuration.
+
