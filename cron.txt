@@ -1,0 +1,3 @@
+02*** /path/to/xyz/scripts/backup.sh
+03*** /path/to/xyz/scripts/cleanup.sh
+04*** /path/to/xyz/scripts/monitor.sh
